@@ -5,7 +5,7 @@
 .pnm-close { position: absolute; top: 12px; right: 14px; background: none; border: none; font-size: 26px; line-height: 1; color: #999999; cursor: pointer; padding: 4px; }
 .pnm-close:hover { color: #333333; }
 .pnm-logo { max-width: 110px; height: auto; margin: 0 auto 10px; display: block; }
-.pnm-title { margin: 0 0 16px; font-size: 21px; font-weight: 700; color: #1a1a1a; }
+.pnm-title { margin: 0 0 16px; font-size: 21px; font-weight: 700; color: #1a1a1a; display: inline-block; padding-bottom: 8px; border-bottom: 2px solid #009845; }
 .pnm-text { margin: 0 0 14px; font-size: 15px; line-height: 1.55; color: #333333; }
 .pnm-link { color: inherit; font-weight: 700; text-decoration: underline; }
 .pnm-link:hover { color: inherit; }
